@@ -10,7 +10,8 @@ namespace Pg14
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Hello world");
+            Console.ReadKey();
         }
     }
 }
